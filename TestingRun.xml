@@ -1,0 +1,26 @@
+<suite name="AutomationSuite" parallel="classes" thread-count="3">
+    <test name ="testname">
+        <classes>
+            <class name="test.CheckBoxTests"/>
+            <class name="test.RadioButtonTests"/>
+            <class name="test.DropDownTest"/>
+            <class name="test.FormsTest"/>
+            <class name="test.WebTableTest"/>
+            <class name="test.IFrameTest"/>
+            <class name="test.DragAndDropTest"/>
+            <class name="test.ShadowDomTest"/>
+            <class name="test.fileUploadTest"/>
+            <class name="test.FileDownloadTest"/>
+            <class name="test.WindowPopupTest"/>
+            <class name="test.NotificationTest"/>
+            <class name="test.ListBoxTest"/>
+            <class name="test.AlertTest"/>
+            <class name="test.SliderTest"/>
+
+
+        </classes>
+
+    </test>
+
+
+</suite>
