@@ -9,15 +9,10 @@ This repository provides end-to-end Selenium automation test cases for all web t
 Each test case covers a specific challenge — such as handling alerts, checkboxes, drag and drop, file upload/download, sliders, notifications, and more — helping testers master automation in real testing scenarios.
 
 💡 Perfect For:
-
 🎓 Learning Selenium WebDriver from scratch
-
 💼 Practicing for automation testing interviews
-
 🧩 Understanding web UI automation patterns
-
 🧪 Building confidence in advanced web element handling
-
 ⚙️ Exploring the Page Object Model (POM) structure
 
 🏆 Challenges Covered
@@ -49,6 +44,8 @@ Each test case covers a specific challenge — such as handling alerts, checkbox
 
 🧩 Project Structure
 <img width="290" height="359" alt="image" src="https://github.com/user-attachments/assets/eccac1e9-cdbb-4de0-9873-ef0eb7e049f5" />
+
+
 
 🧰 Technologies Used
 Tool	Purpose
