@@ -65,6 +65,10 @@ Each test case covers a **specific challenge** — such as handling alerts, chec
 | ChromeDriver / GeckoDriver | Browser drivers |
 
 ---
+🌟 Show Some Love
+
+If this project helped you learn Selenium,
+please ⭐ Star this repo and share it with other QA engineers!
 
 
 
