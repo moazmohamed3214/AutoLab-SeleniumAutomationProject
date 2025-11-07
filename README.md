@@ -50,6 +50,23 @@ Each test case covers a **specific challenge** — such as handling alerts, chec
 ---
 
 ## 🧩 Project Structure
+<img width="400" height="398" alt="image" src="https://github.com/user-attachments/assets/4d2b5685-2745-4c09-9357-2bc179486eda" />
+---
+
+## 🧰 Technologies Used
+
+| Tool | Purpose |
+|------|---------|
+| Java | Core programming language |
+| Selenium WebDriver | Browser automation |
+| TestNG | Test management & assertions |
+| Maven | Build automation |
+| POM Design Pattern | Framework architecture |
+| ChromeDriver / GeckoDriver | Browser drivers |
+
+---
+
+
 
 
 
