@@ -1,61 +1,55 @@
-🧠 QA Automation Labs - Selenium Automation Solutions 🚀
+# 🧠 QA Automation Labs - Selenium Automation Solutions 🚀
 
-A complete collection of Selenium WebDriver automation solutions for all interactive challenges available on QA Automation Labs
- — your ultimate playground for practicing real-world automation testing.
+A complete collection of **Selenium WebDriver automation solutions** for all interactive challenges on [QA Automation Labs](https://testing.qaautomationlabs.com) — your ultimate playground for practicing **real-world automation testing**.
 
-🎯 About The Project
+[![Java](https://img.shields.io/badge/Java-17+-blue?logo=java)](https://www.java.com/) 
+[![Selenium](https://img.shields.io/badge/Selenium-4.x-green?logo=selenium)](https://www.selenium.dev/) 
+[![TestNG](https://img.shields.io/badge/TestNG-7.x-orange?logo=testng)](https://testng.org/) 
+[![Maven](https://img.shields.io/badge/Maven-3.x-red?logo=apachemaven)](https://maven.apache.org/)  
 
-This repository provides end-to-end Selenium automation test cases for all web testing exercises on QA Automation Labs.
-Each test case covers a specific challenge — such as handling alerts, checkboxes, drag and drop, file upload/download, sliders, notifications, and more — helping testers master automation in real testing scenarios.
+---
 
-💡 Perfect For:
-🎓 Learning Selenium WebDriver from scratch
-💼 Practicing for automation testing interviews
-🧩 Understanding web UI automation patterns
-🧪 Building confidence in advanced web element handling
-⚙️ Exploring the Page Object Model (POM) structure
+## 🎯 About The Project
 
-🏆 Challenges Covered
-🧩 Basic Interactions
+This repository provides **end-to-end Selenium automation test cases** for all web testing exercises on QA Automation Labs.  
+Each test case covers a **specific challenge** — such as handling alerts, checkboxes, drag-and-drop, file upload/download, sliders, notifications, and more — helping testers master automation in real testing scenarios.
 
-✅ CheckBox – Select and validate checkbox states
-✅ RadioButton – Handle and verify radio buttons
-✅ DropDown – Interact with dropdown lists
-✅ ListBox – Move elements between lists
-✅ Forms – Fill and submit input forms
+### 💡 Perfect For:
+- 🎓 Learning **Selenium WebDriver** from scratch  
+- 💼 Practicing for **automation testing interviews**  
+- 🧩 Understanding **web UI automation patterns**  
+- 🧪 Building confidence in **advanced web element handling**  
+- ⚙️ Exploring the **Page Object Model (POM)** structure  
 
-⚙️ File & Media Handling
+---
 
-✅ File Upload – Upload files through the system file dialog
-✅ File Download – Verify successful file downloads
+## 🏆 Challenges Covered
 
-🧱 Web Elements
+### 🧩 Basic Interactions
+- ✅ **CheckBox** – Select and validate checkbox states  
+- ✅ **RadioButton** – Handle and verify radio buttons  
+- ✅ **DropDown** – Interact with dropdown lists  
+- ✅ **ListBox** – Move elements between lists  
+- ✅ **Forms** – Fill and submit input forms  
 
-✅ Alert – Handle alert, confirm, and prompt popups
-✅ IFrame – Switch between frames
-✅ Shadow DOM – Interact with elements inside Shadow DOM
-✅ Notification – Handle and validate flash messages
+### ⚙️ File & Media Handling
+- ✅ **File Upload** – Upload files through the system file dialog  
+- ✅ **File Download** – Verify successful file downloads  
 
-🪄 Advanced Interactions
+### 🧱 Web Elements
+- ✅ **Alert** – Handle alert, confirm, and prompt popups  
+- ✅ **IFrame** – Switch between frames  
+- ✅ **Shadow DOM** – Interact with elements inside Shadow DOM  
+- ✅ **Notification** – Handle and validate flash messages  
 
-✅ Drag and Drop – Simulate drag and drop actions
-✅ Slider – Move horizontal sliders to specific values
-✅ Web Table – Read and validate table data dynamically
+### 🪄 Advanced Interactions
+- ✅ **Drag and Drop** – Simulate drag and drop actions  
+- ✅ **Slider** – Move horizontal sliders to specific values  
+- ✅ **Web Table** – Read and validate table data dynamically  
 
-🧩 Project Structure
-<img width="290" height="359" alt="image" src="https://github.com/user-attachments/assets/eccac1e9-cdbb-4de0-9873-ef0eb7e049f5" />
+---
 
-🧰 Technologies Used
-Tool	Purpose
-Java	Core programming language
-Selenium WebDriver	Browser automation
-TestNG	Test management and assertions
-Maven	Build automation
-POM Design Pattern	Framework architecture
-ChromeDriver / GeckoDriver	Browser drivers
+## 🧩 Project Structure
 
-🌟 Show Some Love
-If this project helped you learn Selenium,
-please ⭐ Star this repo and share it with other QA engineers!
 
 
