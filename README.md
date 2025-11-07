@@ -45,7 +45,6 @@ Each test case covers a specific challenge — such as handling alerts, checkbox
 🧩 Project Structure
 <img width="290" height="359" alt="image" src="https://github.com/user-attachments/assets/eccac1e9-cdbb-4de0-9873-ef0eb7e049f5" />
 
-
 🧰 Technologies Used
 Tool	Purpose
 Java	Core programming language
